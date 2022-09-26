@@ -4,6 +4,9 @@
 Domain Objective-C styleguide
 ===============
 
+## Status
+This style guide is no longer being maintained.
+
 Brace style
 ---------------------
 
